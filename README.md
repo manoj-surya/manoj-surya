@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Manoj Gowda</h1>
 <h3 align="center">fullstack dev. Looking to build amazing things with amazing people.</h3>
+<h4 align="center"> Want to know more about me. Check out my <a href="https://manoj-gowda.vercel.app" target="_blank">WEBSITE</a> </h4>
 
-- 🌱 I’m currently learning **react native , grapghQl and Jest**
 
-
+</br>
 <h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/nemesis_manoj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nemesis_manoj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manoj-gowda-h-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj-gowda-h-s" height="30" width="40" /></a>
+  
+
 </p>
 
 <h3 align="left">Primary Languages and Tools:</h3>
