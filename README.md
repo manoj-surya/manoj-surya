@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manoj Gowda</h1>
 <h3 align="center">fullstack dev. Looking to build amazing things with amazing people.</h3>
-<h4 align="center"> Want to know more about me. Check out my <a href="https://manoj-gowda.vercel.app" target="_blank">WEBSITE</a> </h4>
+<h4 align="center"> Want to know more about me. Check out my <a href="https://manoj-gowda.vercel.app" target="blank">WEBSITE</a> </h4>
 
 
 </br>
