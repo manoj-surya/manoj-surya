@@ -1,6 +1,23 @@
 <h1 align="center">Hi 👋, I'm Manoj Gowda</h1>
 <h3 align="center">fullstack dev. Looking to build amazing things with amazing people.</h3>
 <h4 align="center"><a href="https://manoj-gowda.vercel.app" target="blank">Want to know more about me. Check out my WEBSITE</a> </h4>
+<!-- Social -->
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<a href="https://manoj-gowda.vercel.app">
+<strong>Visit my personal website </strong>
+<br />
+<br />
+<br />
+
+<p>
+
+<img alt="Globe" height="80" src="images/globe.gif">
+</a>
+</p>
+
+</td>
 
 
 </br>
@@ -17,10 +34,8 @@
 
 <br/>
 
-# 🎉Hobbies 
+### 🎉Interests 
 - 🏐Sports
-  - ⚽Football
-  - Cricket
-  - Formula One
+  - ⚽Football, Cricket, Formula One.
 - 📖Reading(Philosophy and fiction)
 - Writing blogs
