@@ -1,8 +1,31 @@
-<h1 align="center">Welcome 👋, I'm Manoj Gowda</h1>
-<h3 align="center">fullstack dev. Looking to build amazing things with amazing people.</h3>
-<h4 align="center"><a href="https://manoj-gowda.vercel.app" target="blank">Want to know more about me. Check out my WEBSITE</a> </h4>
+<p align="left">  
+  <h1 align="left">Hello there!👋, I'm Manoj Gowda</h1>
+</p>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<img align="right" width="400" alt="programmer" src="https://github.com/mj-gowda/mj-gowda/blob/main/images/banner.jpeg?raw=true">
+
+<p align="left">  
+  <a href="https://twitter.com/nemesis_manoj" target="_blank">
+  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/manoj-gowda-h-s" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://mj-gowda.vercel.app" target="_blank">
+  <img align="right" src=https://img.shields.io/badge/Personal-Website-blue style="margin-bottom: 5px;" />
+  </a>  
+</p>
+  
+
+## Glad to see you here!  
+<p style="margin-right: 10px;" >
+  I'm a Full-Stack Developer which allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.<br>
+  Always looking to build amazing things with amazing people.
+  
+</p>
+
+
+## Languages and Tools 
 
 - 📜 &nbsp;Language:&nbsp;
   ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
@@ -31,11 +54,6 @@
   ![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=flat)
 <br/>
 
-  </br>
-<h3 align="left">Socials:</h3>
-<p align="left">
-<a href="https://twitter.com/nemesis_manoj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nemesis_manoj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manoj-gowda-h-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj-gowda-h-s" height="30" width="40" /></a>
 
 <table width="100%" align="center">
 <tr>
