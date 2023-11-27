@@ -1,19 +1,18 @@
 <p align="left">  
   <h1 align="left">Hello there!👋, I'm Manoj Gowda</h1>
 </p>
-  <a href="https://manoj-gowda.vercel.app" target="_blank">
-   <img align="right" src=https://img.shields.io/badge/Personal-Website-blue style="margin-bottom: 5px;" />
-   </br>
-   <img align="right" width="400" alt="programmer" src="https://github.com/mj-gowda/mj-gowda/blob/main/images/banner.jpeg?raw=true">
-  </a>
-  
+<img align="right" width="45%" alt="programmer" src="https://github.com/mj-gowda/mj-gowda/blob/main/images/banner.jpeg?raw=true">
+
 <p align="left">  
   <a href="https://twitter.com/nemesis_manoj" target="_blank">
   <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
   <a href="https://linkedin.com/in/manoj-gowda-h-s" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>  
+  </a>
+  <a href="https://instagram.com/ayusshrathore" target="_blank">
+  <img src=https://img.shields.io/badge/Website-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  </a> 
 </p>
   
 
