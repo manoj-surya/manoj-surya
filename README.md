@@ -10,7 +10,7 @@
   <a href="https://linkedin.com/in/manoj-gowda-h-s" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
-  <a href="https://instagram.com/ayusshrathore" target="_blank">
+  <a href="https://manoj-gowda.vercel.app" target="_blank">
   <img src=https://img.shields.io/badge/Website-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   </a> 
 </p>
