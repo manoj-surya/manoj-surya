@@ -1,7 +1,7 @@
 <p align="left">  
   <h1 align="left">Hello there!👋, I'm Manoj Gowda</h1>
 </p>
-<img align="right" width="45%" alt="programmer" src="https://github.com/mj-gowda/mj-gowda/blob/main/images/banner.jpeg?raw=true">
+<img align="right" width="375" height="300" alt="programmer" src="https://github.com/mj-gowda/mj-gowda/blob/main/images/banner.jpeg?raw=true">
 
 <p align="left">  
   <a href="https://twitter.com/nemesis_manoj" target="_blank">
