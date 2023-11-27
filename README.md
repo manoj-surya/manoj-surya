@@ -1,7 +1,7 @@
 <p align="left">  
   <h1 align="left">Hello there!👋, I'm Manoj Gowda</h1>
 </p>
-  <a href="https://mj-gowda.vercel.app" target="_blank">
+  <a href="https://manoj-gowda.vercel.app" target="_blank">
    <img align="right" src=https://img.shields.io/badge/Personal-Website-blue style="margin-bottom: 5px;" />
    </br>
    <img align="right" width="400" alt="programmer" src="https://github.com/mj-gowda/mj-gowda/blob/main/images/banner.jpeg?raw=true">
