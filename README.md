@@ -17,7 +17,7 @@
 
   
   #### A bit about me 👇
-- 🖥 I’m Software developer, writer, and a serial procrastinator.
+- 🖥 I am a Software developer, writer, and a serial procrastinator.
 -  🔭 I’m currently working on: Fullstack development (Next JS, GraphQL, Node.js, React), building AI saas products and learning python.
 - 💬 I write about Technology, Interview prep and my personal projects here.  <a href="https://manoj-gowda.vercel.app" ><strong>personal website </strong></a>
   
